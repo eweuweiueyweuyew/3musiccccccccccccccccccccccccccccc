@@ -1,4 +1,4 @@
 token=NDkzMTkxNTE1Njk1MjE4NzA3.DohfNg.xAzZoMoaITbQSv8hM3SYPctE7Ek
-owner=474175378118803466 
+owner=494529176372772865 
 prefix=3
-game=Watching Truth music
+game=Watching United music
